@@ -5,4 +5,4 @@ d
 asd
 as
 das
-
+import numpy as np
